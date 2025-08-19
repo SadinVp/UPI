@@ -25,7 +25,7 @@ UPI-Fraud-Detection/
 - Source: Kaggle (Synthetic UPI Fraud Detection dataset).
 ■■ Installation
 1. Clone the repository
-git clone https://github.com/your-username/upi-fraud-detection.git
+git clone https://github.com/SadinVP/UPI
 cd upi-fraud-detection
 2. Create a virtual environment
 python -m venv venv
